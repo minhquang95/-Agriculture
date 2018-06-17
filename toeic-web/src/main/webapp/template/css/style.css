@@ -1,0 +1,130 @@
+`.agile-two-grids {
+    margin-top: 2em;
+}
+/*--countdown--*/
+.agile-two-grids {
+    margin-top: 2em;
+}
+.count{
+	padding-left:0;
+}
+.count-grid {
+	background-color: #fff;
+    padding: 1em;
+    border: 10px solid #d8d8d8;
+	height: 185px;
+}
+ul#example {
+    list-style: none;
+    padding: 19px 0 0;
+    margin: 0;
+    display: block;
+    text-align: center;
+    background-color: #fff;
+}
+
+ul#example li { display: inline-block; }
+
+ul#example li span {
+    font-size: 60px;
+    font-weight: 900;
+    color: #00bcd4;
+    letter-spacing: 5px;
+}
+ul#example li.seperator {
+	font-size: 50px;
+    vertical-align: top;
+    margin: 0 0.3em;
+}
+
+ul#example li p {
+    color: #000;
+    font-size: 1em;
+    line-height: 3em;
+}
+/*--//countdown--*/
+/*-- weather --*/
+.weather {
+    padding-right: 0;
+}
+.weather-right {
+    background: #fff;
+    padding: 1em;
+    border: 10px solid #d8d8d8;
+}
+.weather-right ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 1em;
+}
+.weather-right ul li:nth-child(1) figure.icons {
+    float: none;
+    width: 100%;
+}
+.weather-right h3 {
+    font-size: 1.5em;
+    color: #000;
+}
+figure.icons, .weather-text {
+    float: left;
+    width: 50%;
+}
+.weather-right h4 {
+    font-size: 1em;
+    color: #333;
+}
+.weather-right h5 {
+    font-size: .9em;
+    color: #333;
+    margin-top: 0.5em;
+}
+.time{
+	 text-align: center;
+    font-size: 40px;
+	color:red;
+}
+/*-- //weather --*/
+.mattroi{
+	margin-top: 8px;
+}
+
+.weather-forcast{
+	float: left;
+    width: 30%;
+    height: 90px;
+    margin-bottom: 15px
+	
+}
+.weather-forcast p {
+    color: #000;
+    font-size: 1em;
+    line-height: 3em;
+	padding-left: 19px;
+}
+.weather-value{
+	float: left;
+	height: 90px;
+    width: 20%;
+	margin-left: -23px;
+}
+
+.weather-value p{
+    margin-top: 28px;
+	color: #000;
+	line-height: 16px;
+	font-size: 1.8em;
+}
+#text1{
+	font-size:2em;
+	color: red;
+}
+
+#text2{
+	font-size:2em;
+	color: red;
+}
+
+#text3{
+	font-size:2em;
+	color: red;
+}
